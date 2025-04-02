@@ -283,21 +283,6 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
-
-
-
-
-#nav {
-    background-color: #282828;
-    text-align: center;
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
-    z-index: 10000;
-    cursor: default;
-    height: 3.5em;
-    line-height: 3.5em;
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
