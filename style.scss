@@ -288,6 +288,12 @@ footer {
     background-color: #282828;
     text-align: center;
     width: 100%;
+    color:#fff
+}
+
+#nav li {
+    display: inline-block;
+    padding-left: 0;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
