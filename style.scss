@@ -21,8 +21,9 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  background-image: url(images/bg.png);
-}
+  background-image: url(images/bg.png);	
+  padding-top: 44px;
+     }
 
 .container {
   margin: 0 auto;
