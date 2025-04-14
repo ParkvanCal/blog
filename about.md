@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
----👋
-
-Hi, I’m *Upenyu Mutsumba*, a passionate Fitter and Turner turned Industrial and Manufacturing Engineer With a strong foundation in *petroleum engineering services* and *volumetric calibration*, I am the Operations Lead at *Parkvan Calibration* aiming to bring precision, safety, and innovation to Zimbabwe’s petroleum sector.
+---
+👋Hi, I’m *Upenyu Mutsumba*, a passionate Fitter and Turner turned Industrial and Manufacturing Engineer With a strong foundation in *petroleum engineering services* and *volumetric calibration*, I am the Operations Lead at *Parkvan Calibration* aiming to bring precision, safety, and innovation to Zimbabwe’s petroleum sector.
 
 ---
 
