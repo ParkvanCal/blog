@@ -15,37 +15,37 @@ When I reflect on my entrepreneurial journey, it feels like walking through the 
 
 ---
 
-1. The Calling – Leaving the City of Destruction
+✅. The Calling – Leaving the City of Destruction
 
 Like Christian, I left the comfort of job security. Not because it wasn’t working—but because something inside told me there was more. That I needed to create. Serve. Build.
 
 ---
 
-2. The Burden – Responsibility
+✅. The Burden – Responsibility
 
 The burden of being an operational lead is real. It’s the weight of vision, uncertainty, and hope, all packed into one. You carry your team, your family, your future.
 
 ---
 
-3. The Slough of Despond – Setbacks
+✅. The Slough of Despond – Setbacks
 
 There are moments when nothing works. Rejections pile up. Doubt creeps in. But giving up never really feels like an option.
 
 ---
 
-4. Vanity Fair – Ego & Distractions
+✅. Vanity Fair – Ego & Distractions
 
 We live in a world of optics. It’s easy to chase validation. But real growth comes quietly, through values, not applause.
 
 ---
 
-5. Doubting Castle – Inner Fears
+✅. Doubting Castle – Inner Fears
 
 Sometimes the greatest enemy is inside. The voice that says, "You can’t," "You’re too late," "This won’t work." But I keep walking.
 
 ---
 
-6. The Celestial City – Fulfillment
+✅. The Celestial City – Fulfillment
 Success is peace. It’s seeing your solution work, seeing clients satisfied, knowing your journey has helped others find theirs.
 
 ---
