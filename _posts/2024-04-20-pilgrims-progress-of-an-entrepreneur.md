@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Pilgrim’s Progress of an Entrepreneur"
-date: 2024-04-20
+date: 2025-04-20
 author: Upenyu Mutsumba
 categories: [entrepreneurship, inspiration, mindset]
 tags: [entrepreneurship, faith, business-journey, mindset, Zimbabwe]
