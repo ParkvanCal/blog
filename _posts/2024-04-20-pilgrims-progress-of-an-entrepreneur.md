@@ -10,7 +10,7 @@ permalink: /blog/pilgrims-progress-of-an-entrepreneur/
 ---
 
 > “Not all who wander are lost — some are building.”  
-> *Upenyu Mutsumba*
+>
 When I reflect on my entrepreneurial journey, it feels like walking through the pages of *The Pilgrim’s Progress* by John Bunyan. It’s a path that calls not just for strategy and hustle—but for transformation.
 
 ---
