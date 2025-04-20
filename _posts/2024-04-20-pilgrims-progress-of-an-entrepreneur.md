@@ -23,7 +23,7 @@ Like Christian, I left the comfort of job security. Not because it wasn’t work
 
 2. The Burden – Responsibility
 
-The burden of a founder is real. It’s the weight of vision, uncertainty, and hope, all packed into one. You carry your team, your family, your future.
+The burden of being an operational lead is real. It’s the weight of vision, uncertainty, and hope, all packed into one. You carry your team, your family, your future.
 
 ---
 
@@ -41,7 +41,7 @@ We live in a world of optics. It’s easy to chase validation. But real growth c
 
 5. Doubting Castle – Inner Fears
 
-Sometimes the greatest enemy is inside. The voice that says, "You can’t," "You’re too late," "This won’t work." But I kept walking.
+Sometimes the greatest enemy is inside. The voice that says, "You can’t," "You’re too late," "This won’t work." But I keep walking.
 
 ---
 
