@@ -57,6 +57,11 @@ Entrepreneurship, like Christian’s journey, is a test of endurance, faith, and
 ---
 
 📎 *Read the short LinkedIn version and join the conversation:*  
-[🔗 https://www.linkedin.com/posts/upenyumutsumba_the-pilgrims-progress-of-an-entrepreneur-activity-7319807722089070593-izN4?utm_source=share&utm_medium=member_android&rcm=ACoAAB-OTI4BUrHW-hh7E3waPA9LmOUBObAOYxU
+[LinkedIn Article →](https://www.linkedin.com/in/your-link-here/) <!-- Replace with real URL -->
+
+---
+
+_🖋️ Written by Upenyu Mutsumba, Operations Lead at Parkvan Calibration, Zimbabwe._
+```
 
 ---
