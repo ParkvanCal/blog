@@ -64,4 +64,4 @@ Accurate *flow meter calibration* isn't just a compliance requirement—it's a b
 
 ---
 
-*Post by [Upenyu Mutsumba](https://parkvan-calibration.co.zw/about), Operations Lead at Parkvan Calibration.*
+*Post by [Upenyu (https://parkvan-calibration.co.zw/about_upenyu.html)), Operations Lead at Parkvan Calibration.*
