@@ -30,7 +30,7 @@ We begin by selecting materials and engineering specifications aligned with the 
 
 Secure integration onto the tanker chassis is essential for durability and performance.
 
-![Pipe fitting on tanker bubble](/assets/images/posts/pipe-fitting-placeholder.jpg)
+![Pipe fitting on tanker bubble](/images/posts/pipe-fitting-placeholder.jpg)
 
 - Isolation valves installation
 - Pipe routing to minimize turbulence
@@ -41,7 +41,7 @@ Secure integration onto the tanker chassis is essential for durability and perfo
 🎯 Stage 3: Field Calibration and Accuracy Testing
 
 We calibrate against a *master meter* in compliance wit Trade Measures standards.
-![Calibration process bubble](/assets/images/posts/calibration-placeholder.jpg)
+![Calibration process bubble](/images/posts/calibration-placeholder.jpg)
 
 - Multiple test runs at different flow rates
 - Error correction factors applied
