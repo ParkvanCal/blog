@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Flow Meter Fabrication, Installation on Road Tanker, and Calibration: A Step-by-Step Project Progression"
+title: "Flow Meter Frame Fabrication, Installation on Road Tanker, and Calibration: A Step-by-Step Project Progression"
 date: 2025-04-22
 categories: [Calibration, Projects, Engineering]
-description: "A detailed walkthrough of flow meter fabrication, fitting on a road tanker, and final calibration for accurate fuel measurement. Ideal for professionals in fuel logistics, transport, and engineering."
+description: "A detailed walkthrough of flow meter frame fabrication, fitting on a road tanker, and final calibration for accurate fuel measurement. Ideal for professionals in fuel logistics, transport, and engineering."
 keywords: flow meter calibration, road tanker meter fitting, fuel measurement, volumetric calibration Zimbabwe, flow meter installation, petroleum engineering, Parkvan Calibration
 image: /assets/images/posts/flow-meter-cover.jpg
 ---
 
-🚛 *Flow Meter Fabrication and Calibration Project Progression*
+🚛 *Flow Meter Frame Fabrication and Calibration Project Progression*
 
 Flow meter calibration plays a critical role in ensuring accurate measurement of fuel transferred via road tankers. Here's how Parkvan Calibration delivers precision and trust, step by step.
 
 ---
 
-⚙️ Stage 1: Flow Meter Fabrication
+⚙️ Stage 1: Flow Meter Frame Fabrication
 
 We begin by selecting materials and engineering specifications aligned with the required throughput and fuel type.
 
