@@ -30,7 +30,7 @@ We begin by selecting materials and engineering specifications aligned with the 
 
 Secure integration onto the tanker chassis is essential for durability and performance.
 
-![Pipe fitting on tanker bubble](/images/posts/pipe-fitting-placeholder.jpg)
+![Pipe fitting on tanker bubble](/images/pipe-fitting-placeholder.jpg)
 
 - Isolation valves installation
 - Pipe routing to minimize turbulence
