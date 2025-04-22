@@ -58,7 +58,7 @@ We calibrate against a *master meter* in compliance with Trade Measures standard
 
 🧠 Takeaway
 
-Accurate *flow meter calibration* isn't just a compliance requirement—it's a business enabler. At Parkvan Calibration, our engineered process from fabrication to calibration ensures your road tanker performs to the highest standard.
+Accurate *flow meter calibration* isn't just a compliance requirement—it's a business enabler. At Parkvan Calibration, our engineered process from fabrication to calibration ensures your road tanker metering system performs to the highest standard.
 
 📞 [Contact us](https://parkvan-calibration.co.zw) for your next flow meter project or field calibration service.
 
