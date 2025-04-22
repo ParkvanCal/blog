@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flow Meter Fabrication, Installation on Road Tanker, and Calibration: A Step-by-Step Project Progression"
-date: 2024-04-22
+date: 2025-04-22
 categories: [Calibration, Projects, Engineering]
 description: "A detailed walkthrough of flow meter fabrication, fitting on a road tanker, and final calibration for accurate fuel measurement. Ideal for professionals in fuel logistics, transport, and engineering."
 keywords: flow meter calibration, road tanker meter fitting, fuel measurement, volumetric calibration Zimbabwe, flow meter installation, petroleum engineering, Parkvan Calibration
@@ -20,8 +20,8 @@ We begin by selecting materials and engineering specifications aligned with the 
 
 ![Flow meter parts bubble](/assets/images/posts/flow-fabrication-placeholder.jpg)
 
-- Material selection (stainless steel, aluminum)
-- Metering mechanism: turbine or positive displacement
+- Material selection (steel, aluminum)
+- Metering mechanism: positive displacement
 - Customization based on tanker layout
 
 ---
@@ -34,17 +34,16 @@ Secure integration onto the tanker chassis is essential for durability and perfo
 
 - Isolation valves installation
 - Pipe routing to minimize turbulence
-- Safety features (non-return valves, pressure relief)
+- Safety features
 
 ---
 
 🎯 Stage 3: Field Calibration and Accuracy Testing
 
-We calibrate against a *master meter* or *prover tank* in compliance with ZIMTRADE and trade measures standards.
+We calibrate against a *master meter* in compliance wit Trade Measures standards.
 ![Calibration process bubble](/assets/images/posts/calibration-placeholder.jpg)
 
 - Multiple test runs at different flow rates
-- Temperature and pressure adjustment
 - Error correction factors applied
 
 ---
@@ -65,4 +64,4 @@ Accurate *flow meter calibration* isn't just a compliance requirement—it's a b
 
 ---
 
-*Post by [Upenyu Mutsumba](https://parkvan-calibration.co.zw/about), Founder of Parkvan Calibration.*
+*Post by [Upenyu Mutsumba](https://parkvan-calibration.co.zw/about), Operations Lead at Parkvan Calibration.*
