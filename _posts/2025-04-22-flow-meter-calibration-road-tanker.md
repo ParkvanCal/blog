@@ -18,7 +18,7 @@ Flow meter calibration plays a critical role in ensuring accurate measurement of
 
 We begin by selecting materials and engineering specifications aligned with the required throughput and fuel type.
 
-![Flow meter parts bubble](/assets/images/posts/flow-fabrication-placeholder.jpg)
+![Flow meter parts bubble](/images/flow-fabrication-placeholder.jpg)
 
 - Material selection (steel, aluminum)
 - Metering mechanism: positive displacement
