@@ -41,7 +41,7 @@ Secure integration onto the tanker chassis is essential for durability and perfo
 🎯 Stage 3: Field Calibration and Accuracy Testing
 
 We calibrate against a *master meter* in compliance with Trade Measures standards.
-![Calibration process bubble](/images/calibration-placeholder.jpg)
+![Calibration process bubble]
 
 - Multiple test runs at different flow rates
 - Error correction factors applied
