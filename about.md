@@ -10,7 +10,7 @@ permalink: /about/
 
 ---
 
-🧠 What Drives this Blog
+What Drives Us
 
 Our mission is simple:  
 *“To teach by expression.”*  
