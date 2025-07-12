@@ -7,9 +7,9 @@ permalink: /about/
 
 ---
 
-💼 What I Do
+💼 What We Do
 
-I specialize in:
+We specialize in:
 - Calibration of *storage tanks*, *fuel flow meters*, and *dispensers*
 - Implementing international *quality and safety standards*
 - Providing *technical training and consulting* for fuel handling systems
